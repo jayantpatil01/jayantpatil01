@@ -1,16 +1,14 @@
-## Hi there! 👋 I'm [Your Name]
+## Hi there! 👋 I'm Jayant Patil
 
-### A passionate Web Developer from [Your Location]
+### A passionate Web Developer from Nagpur
 
-🚀 I’m currently working on [Current Project]
+🌱 I’m currently learning MERN Stack
 
-🌱 I’m currently learning [Current Learning Focus]
+💬 Ask me about FullStack Programiming
 
-💬 Ask me about [Your Areas of Expertise]
+📫 How to reach me: patiljayant2023@gmail.com
 
-📫 How to reach me: [Your Email Address]
-
-⚡ Fun fact: [Your Fun Fact]
+⚡ Fun fact: Fresher
 
 ### Connect with me:
 - [GitHub](https://github.com/jayantpatil01)
