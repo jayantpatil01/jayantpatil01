@@ -17,9 +17,6 @@
 - [Portfolio](https://jayantpatil-portfolio.netlify.app/)
 
 ### Languages and Tools:
-![Amplify](https://img.shields.io/badge/-Amplify-05122A?style=flat&logo=amazon-aws)
-![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
