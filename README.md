@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Jayant Patil
 
-### A passionate Web Developer from Nagpur
+### MERN STACK DEVELOPER
 
 🌱 I’m currently learning MERN Stack
 
