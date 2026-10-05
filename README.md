@@ -2,7 +2,7 @@
 
 ## 🚀 Software Developer | MERN Stack | Generative AI Integrations
 
-💼 Software Developer with **1.4+ years of professional experience** building scalable full-stack applications and integrating **Generative AI APIs**.
+💼 Software Developer with **3+ years of professional experience** building scalable full-stack applications and integrating **Generative AI APIs**.
 
 🤖 Experienced in integrating AI services like OpenAI, building AI-powered features, and developing modern web applications using the MERN stack.
 
@@ -59,7 +59,7 @@
 
 ## 💼 Professional Highlights
 
-✅ 1.4+ years Software Development experience  
+✅ 3+ years Software Development experience  
 ✅ Freelancing since 2022  
 ✅ Built Full-Stack MERN applications  
 ✅ Integrated Generative AI APIs into production apps  
